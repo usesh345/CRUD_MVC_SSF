@@ -46,7 +46,7 @@ CRUD_MVC_SSF/
 
 ## Documentación completa
 
-[Ver documentación en GitBook](https://app.gitbook.com/o/e0lutnyDgxpxtg8cPpLJ/s/DfpyIFtwBoeDc00AKNLd/)
+[Ver documentación en GitBook](https://proyecto-ssf.gitbook.io/documentacion-crud-mvc-alvaro/)
 
 ## Gitflow
 
